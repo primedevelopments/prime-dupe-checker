@@ -17,15 +17,13 @@ The simple answer to this question is **No**. All the mod does is check for dupl
 
 **2.** Press **WINDOWS** + **R** and type **%appdata%**
 
-**3.** Go into the **.minecraft** folder
+**3.** Go into the **.minecraft** and then the **mods** folder
 
-**4.** Go into the **mods** folder
+**4.** Put the mod into the **mods** folder
 
-**5.** Put the mod into the **mods** folder
+**5.** Open Forge 1.8.9
 
-**6.** Open Forge 1.8.9
-
-**7.** You're all set!
+**6.** You're all set!
 
 # Commands
 
