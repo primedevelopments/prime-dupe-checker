@@ -6,6 +6,7 @@ which was made to scan items in the game SkyBlock on the Hypixel Network for dup
 Once you activate the mod by installing it and joining SkyBlock, you have to put "/pdc on" in your chat and the mod will scan your inventory for duplicated items, which means if somebody has the same item as you it will be flagged as a duplicated item and automatically be marked as a red item.
 
 Example:
+
 ![image](https://user-images.githubusercontent.com/103907495/164896118-9b9efdd2-bcf2-4b5c-820b-e77ef359d71a.png)
 
 # Can I get banned for using this mod?
