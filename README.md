@@ -27,11 +27,17 @@ The simple answer to this question is **No**. All the mod does is check for dupl
 
 # Commands
 
-**Activating** /pdc on
+**Activating**
 
-**Disabling** /pdc off
+/pdc on
 
-**Support** /pdc discord
+**Disabling**
+
+/pdc off
+
+**Support**
+
+/pdc discord
 
 # Download
 You can download the Prime Dupe-Checker by clicking [HERE](https://github.com/primedevelopments/prime-dupe-checker/releases/tag/PDC-1.5.9)
