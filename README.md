@@ -21,11 +21,11 @@ The simple answer to this question is **No**. All the mod does is check for dupl
 
 **4.** Go into the **mods** folder
 
-**3.** Put the mod into the **mods** folder
+**5.** Put the mod into the **mods** folder
 
-**4.** Open Forge 1.8.9
+**6.** Open Forge 1.8.9
 
-**5.** You're all set!
+**7.** You're all set!
 
 # Commands
 
