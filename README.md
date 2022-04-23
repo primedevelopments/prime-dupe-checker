@@ -26,7 +26,9 @@ The simple answer to this question is **No**. All the mod does is check for dupl
 # Commands
 
 **Activating** /pdc on
+
 **Disabling** /pdc off
+
 **Support** /pdc discord
 
 # Download
