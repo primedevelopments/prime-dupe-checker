@@ -13,7 +13,7 @@ Once you activate the mod by installing it and joining SkyBlock, you need to act
 The simple answer to this question is **No**. All the mod does is check for duplicated items using the Hypixel API.
 
 # How do I set it up?
-**1.** Download the mod by clicking [HERE](https://github.com/primedevelopments/prime-dupe-checker)
+**1.** Download the mod by clicking [HERE](https://github.com/primedevelopments/prime-dupe-checker/releases/tag/PDC-1.5.9)
 
 **2.** Press **WINDOWS** + **R** and type **%appdata%**
 
@@ -34,4 +34,4 @@ The simple answer to this question is **No**. All the mod does is check for dupl
 **Support** /pdc discord
 
 # Download
-You can download the Prime Dupe-Checker by clicking [HERE](https://github.com/primedevelopments/prime-dupe-checker)
+You can download the Prime Dupe-Checker by clicking [HERE](https://github.com/primedevelopments/prime-dupe-checker/releases/tag/PDC-1.5.9)
