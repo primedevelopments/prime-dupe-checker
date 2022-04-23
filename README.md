@@ -19,7 +19,7 @@ The simple answer to this question is **No**. All the mod does is check for dupl
 
 **3.** Put the mod into the folder
 
-**4.** Restart/Open your game
+**4.** Open Forge 1.8.9
 
 **5.** You're all set!
 
