@@ -15,9 +15,13 @@ The simple answer to this question is **No**. All the mod does is check for dupl
 # How do I set it up?
 **1.** Download the mod by clicking [HERE](https://github.com/primedevelopments/prime-dupe-checker)
 
-**2.** Press **WINDOWS** + **R** and type **%appdata%\.minecraft\mods**
+**2.** Press **WINDOWS** + **R** and type **%appdata%**
 
-**3.** Put the mod into the folder
+**3.** Go into the **.minecraft** folder
+
+**4.** Go into the **mods** folder
+
+**3.** Put the mod into the **mods** folder
 
 **4.** Open Forge 1.8.9
 
