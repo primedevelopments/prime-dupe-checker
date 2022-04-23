@@ -12,8 +12,11 @@ Once you activate the mod by installing it and joining SkyBlock, you need to act
 # Can I get banned for using this mod?
 The simple answer to this question is **No**. All the mod does is check for duplicated items using the Hypixel API.
 
+# Download
+You can download the Prime Dupe-Checker by clicking [here](https://github.com/primedevelopments/prime-dupe-checker/releases/tag/PDC-1.5.9)
+
 # How do I set it up?
-**1.** Download the mod by clicking [HERE](https://github.com/primedevelopments/prime-dupe-checker/releases/tag/PDC-1.5.9)
+**1.** Download the mod by clicking [here](https://github.com/primedevelopments/prime-dupe-checker/releases/tag/PDC-1.5.9)
 
 **2.** Press **WINDOWS** + **R** and type **%appdata%**
 
@@ -27,17 +30,9 @@ The simple answer to this question is **No**. All the mod does is check for dupl
 
 # Commands
 
-**Activating**
+**Activating** | /pdc on
 
-/pdc on
+**Disabling** | /pdc off
 
-**Disabling**
+**Support** | /pdc discord
 
-/pdc off
-
-**Support**
-
-/pdc discord
-
-# Download
-You can download the Prime Dupe-Checker by clicking [HERE](https://github.com/primedevelopments/prime-dupe-checker/releases/tag/PDC-1.5.9)
